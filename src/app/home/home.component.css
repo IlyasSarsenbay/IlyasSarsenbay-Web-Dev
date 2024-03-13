@@ -1,0 +1,28 @@
+h1 {
+    font-size: 150px;
+    color: #333;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 70px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  a:hover {
+    color: #666;
+  }
